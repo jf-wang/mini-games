@@ -8,6 +8,7 @@
 [演示地址](https://jf-wang.github.io/mini-games/2048Game/index.html)
 
 ###火柴人过墙
+
 ![demo](https://raw.githubusercontent.com/jf-wang/mini-games/master/demoimg/mendemo.png)
 
 [演示地址](https://jf-wang.github.io/mini-games/Men_Game/index.html)
