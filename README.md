@@ -14,3 +14,6 @@
 [演示地址](https://jf-wang.github.io/mini-games/Men_Game/index.html)
 
 还有很多不足的地方希望大家一起讨论学习，如需使用请自行扩展和修改
+
+
+[演示地址](https://jf-wang.github.io/mini-games/index.html)

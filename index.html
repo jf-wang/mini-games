@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <title>hxproject</title>
+</head>
+
+<body>
+</body>
+<script>
+  window.onload = function () {
+    var redirect_uri = encodeURIComponent('http://test.cclru.cn/fronts/dist/#/index');
+    window.location.href =
+      'https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf3b1638bc878811c&redirect_uri=' + redirect_uri +
+      '&response_type=code&scope=snsapi_userinfo&state=123#wechat_redirect';
+  }
+</script>
+
+</html>
