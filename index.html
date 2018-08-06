@@ -11,7 +11,7 @@
 </body>
 <script>
   window.onload = function () {
-    var redirect_uri = encodeURIComponent('http://test.cclru.cn/fronts/dist/#/index');
+    var redirect_uri = encodeURIComponent('http://test.cclru.cn/fronts/dist/#/index?id=666');
     window.location.href =
       'https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf3b1638bc878811c&redirect_uri=' + redirect_uri +
       '&response_type=code&scope=snsapi_userinfo&state=123#wechat_redirect';
